@@ -1,4 +1,4 @@
-# psytest_processor
+# psytests_processor
 Репозиторий для обработки анкет с сайта psytest.org
 
 Примечания:
